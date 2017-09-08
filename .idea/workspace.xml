@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64639494-b5ea-48d0-b2b2-393fd5d69995" name="Default" comment="" />
+    <ignored path="Weshop-Product.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Weshop-Product" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ItemBag.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/ItemBag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-930">
+              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding>
+                <element signature="e#6#30#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common/composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1367" />
+    <option name="y" value="23" />
+    <option name="width" value="1416" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSProduct" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weshop-Product" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WSProduct" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Common" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64639494-b5ea-48d0-b2b2-393fd5d69995" name="Default" comment="" />
+      <created>1504839816850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1504839816850</updated>
+      <workItem from="1504839820161" duration="4605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4605000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1367" y="23" width="1416" height="702" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496361" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496361" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38677686" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Message/AbstractRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <marker date="1478499023000" expanded="false" signature="9:31" ph=" Abstract Request ..." />
+            <marker date="1478499023000" expanded="true" signature="74:460" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="465:1705" ph=" Abstract Request ..." />
+            <marker date="1478499023000" expanded="true" signature="1766:17003" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1776:1878" ph=" The request parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="1916:1997" ph=" The request client. ..." />
+            <marker date="1478499023000" expanded="true" signature="2035:2134" ph=" The HTTP request object. ..." />
+            <marker date="1478499023000" expanded="true" signature="2173:2256" ph=" An associated ResponseInterface. ..." />
+            <marker date="1478499023000" expanded="true" signature="2292:2315" ph=" @var bool ..." />
+            <marker date="1478499023000" expanded="true" signature="2367:2390" ph=" @var bool ..." />
+            <marker date="1478499023000" expanded="true" signature="2447:2643" ph=" Create a new Request ..." />
+            <marker date="1478499023000" expanded="true" signature="2732:2857" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2866:3122" ph=" Initialize the object with parameters. ..." />
+            <marker date="1478499023000" expanded="true" signature="3184:3459" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3230:3333" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="3468:3553" ph=" Get all parameters as an associative array. ..." />
+            <marker date="1478499023000" expanded="true" signature="3591:3644" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3653:3762" ph=" Get a single parameter. ..." />
+            <marker date="1478499023000" expanded="true" signature="3806:3863" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3872:4162" ph=" Set a single parameter ..." />
+            <marker date="1478499023000" expanded="true" signature="4214:4440" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4260:4363" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="4449:4544" ph=" Gets the test mode of the request from the gateway. ..." />
+            <marker date="1478499023000" expanded="true" signature="4580:4640" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4649:4787" ph=" Sets the test mode of the request. ..." />
+            <marker date="1478499023000" expanded="true" signature="4829:4897" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4906:5200" ph=" Validate the request. ..." />
+            <marker date="1478499023000" expanded="true" signature="5233:5484" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5283:5477" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="5369:5467" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="5493:5553" ph=" Get the card. ..." />
+            <marker date="1478499023000" expanded="true" signature="5585:5641" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5650:5776" ph=" Sets the card. ..." />
+            <marker date="1478499023000" expanded="true" signature="5814:5989" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5875:5929" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="5998:6060" ph=" Get the card token. ..." />
+            <marker date="1478499023000" expanded="true" signature="6093:6150" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6159:6287" ph=" Sets the card token. ..." />
+            <marker date="1478499023000" expanded="true" signature="6326:6391" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6400:6466" ph=" Get the card reference. ..." />
+            <marker date="1478499023000" expanded="true" signature="6507:6572" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6581:6713" ph=" Sets the card reference. ..." />
+            <marker date="1478499023000" expanded="true" signature="6760:6833" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6842:7072" ph=" Convert an amount into a float. ..." />
+            <marker date="1478499023000" expanded="true" signature="7111:7386" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="7131:7184" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7223:7379" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7395:7634" ph=" Validates and returns the formated amount. ..." />
+            <marker date="1478499023000" expanded="true" signature="7668:9226" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="7756:9219" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7950:8323" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8056:8308" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8481:8582" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8688:8785" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="9047:9157" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="9235:9367" ph=" Sets the payment amount. ..." />
+            <marker date="1478499023000" expanded="true" signature="9407:9473" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9482:9563" ph=" Get the payment amount as an integer. ..." />
+            <marker date="1478499023000" expanded="true" signature="9604:9700" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9709:9782" ph=" Get the payment currency code. ..." />
+            <marker date="1478499023000" expanded="true" signature="9818:9878" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9887:10026" ph=" Sets the payment currency code. ..." />
+            <marker date="1478499023000" expanded="true" signature="10068:10218" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10105:10155" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="10227:10303" ph=" Get the payment currency number. ..." />
+            <marker date="1478499023000" expanded="true" signature="10346:10476" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10416:10469" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="10485:10586" ph=" Get the number of decimal places in the payment currency. ..." />
+            <marker date="1478499023000" expanded="true" signature="10635:10785" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10705:10759" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="10834:10905" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10914:10999" ph=" Format an amount for the payment currency. ..." />
+            <marker date="1478499023000" expanded="true" signature="11045:11198" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11081:11190" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="11207:11278" ph=" Get the request description. ..." />
+            <marker date="1478499023000" expanded="true" signature="11317:11380" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11389:11526" ph=" Sets the request description. ..." />
+            <marker date="1478499023000" expanded="true" signature="11571:11642" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11651:11803" ph=" Get the transaction ID. ..." />
+            <marker date="1478499023000" expanded="true" signature="11844:11909" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11918:12050" ph=" Sets the transaction ID. ..." />
+            <marker date="1478499023000" expanded="true" signature="12097:12170" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12179:12358" ph=" Get the transaction reference. ..." />
+            <marker date="1478499023000" expanded="true" signature="12406:12478" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12487:12626" ph=" Sets the transaction reference. ..." />
+            <marker date="1478499023000" expanded="true" signature="12680:12760" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12769:12884" ph=" A list of items in this order ..." />
+            <marker date="1478499023000" expanded="true" signature="12917:12974" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12983:13129" ph=" Set the items in this order ..." />
+            <marker date="1478499023000" expanded="true" signature="13168:13338" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13226:13277" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="13347:13416" ph=" Get the client IP address. ..." />
+            <marker date="1478499023000" expanded="true" signature="13452:13512" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13521:13656" ph=" Sets the client IP address. ..." />
+            <marker date="1478499023000" expanded="true" signature="13698:13766" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13775:13845" ph=" Get the request return URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="13882:13943" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13952:14088" ph=" Sets the request return URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="14131:14200" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14209:14279" ph=" Get the request cancel URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="14316:14377" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14386:14522" ph=" Sets the request cancel URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="14565:14634" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14643:14713" ph=" Get the request notify URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="14750:14811" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14820:14956" ph=" Sets the request notify URL. ..." />
+            <marker date="1478499023000" expanded="true" signature="14999:15068" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15077:15300" ph=" Get the payment issuer. ..." />
+            <marker date="1478499023000" expanded="true" signature="15334:15392" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15401:15689" ph=" Set the payment issuer. ..." />
+            <marker date="1478499023000" expanded="true" signature="15729:15795" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15804:15997" ph=" Get the payment issuer. ..." />
+            <marker date="1478499023000" expanded="true" signature="16038:16103" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16112:16370" ph=" Set the payment method. ..." />
+            <marker date="1478499023000" expanded="true" signature="16417:16490" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16499:16569" ph=" Send the request ..." />
+            <marker date="1478499023000" expanded="true" signature="16598:16684" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16693:16775" ph=" Get the associated Response. ..." />
+            <marker date="1478499023000" expanded="true" signature="16811:17001" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16857:16961" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+          <folding>
+            <marker date="1504840875000" expanded="true" signature="0:968" ph="{&quot;name&quot;: &quot;gstearmit/common&quot;...}" />
+            <marker date="1504840875000" expanded="true" signature="151:229" ph="[...]" />
+            <marker date="1504840875000" expanded="true" signature="330:433" ph="[...]" />
+            <marker date="1504840875000" expanded="true" signature="340:427" ph="{&quot;name&quot;: &quot;gstearmit&quot;...}" />
+            <marker date="1504840875000" expanded="true" signature="451:561" ph="{...}" />
+            <marker date="1504840875000" expanded="true" signature="578:691" ph="{&quot;php&quot;: &quot;&gt;=5.3.2&quot;...}" />
+            <marker date="1504840875000" expanded="true" signature="712:796" ph="{&quot;omnipay/tests&quot;: &quot;~2.0&quot;...}" />
+            <marker date="1504840875000" expanded="true" signature="811:966" ph="{...}" />
+            <marker date="1504840875000" expanded="true" signature="837:886" ph="{&quot;dev-master&quot;: &quot;2.5.x-dev&quot;...}" />
+            <marker date="1504840875000" expanded="true" signature="908:960" ph="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Omnipay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1131">
+          <caret line="83" column="7" selection-start-line="83" selection-start-column="7" selection-end-line="83" selection-end-column="7" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:28" ph=" Omnipay class ..." />
+            <marker date="1478499023000" expanded="true" signature="91:1521" ph=" Omnipay class ..." />
+            <marker date="1478499023000" expanded="true" signature="1537:3139" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1548:1620" ph=" Internal factory storage ..." />
+            <marker date="1478499023000" expanded="true" signature="1660:1842" ph=" Get the gateway factory ..." />
+            <marker date="1478499023000" expanded="true" signature="1884:2032" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1931:1991" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2041:2149" ph=" Set the gateway factory ..." />
+            <marker date="1478499023000" expanded="true" signature="2221:2270" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2279:2943" ph=" Static function call router. ..." />
+            <marker date="1478499023000" expanded="true" signature="3007:3137" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/GatewayFactory.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <marker date="1478499023000" expanded="false" signature="9:44" ph=" Omnipay Gateway Factory class ..." />
+            <marker date="1478499023000" expanded="false" signature="79:215" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="220:707" ph=" Omnipay Gateway Factory class ..." />
+            <marker date="1478499023000" expanded="true" signature="730:3094" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="740:822" ph=" Internal storage for all available gateways ..." />
+            <marker date="1478499023000" expanded="true" signature="866:956" ph=" All available gateways ..." />
+            <marker date="1478499023000" expanded="true" signature="984:1028" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1037:1152" ph=" Replace the list of available gateways ..." />
+            <marker date="1478499023000" expanded="true" signature="1199:1248" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1257:1345" ph=" Register a new gateway ..." />
+            <marker date="1478499023000" expanded="true" signature="1388:1508" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1448:1501" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1517:1650" ph=" Automatically find and register all officially supported gateways ..." />
+            <marker date="1478499023000" expanded="true" signature="1679:1983" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1747:1913" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1847:1903" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1992:2447" ph=" Create a new gateway instance ..." />
+            <marker date="1478499023000" expanded="true" signature="2553:2790" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2651:2728" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2799:2896" ph=" Get a list of supported gateways which may be available ..." />
+            <marker date="1478499023000" expanded="true" signature="2941:3092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Currency.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="86" column="64" selection-start-line="86" selection-start-column="11" selection-end-line="86" selection-end-column="64" />
+          <folding>
+            <marker date="1478499023000" expanded="false" signature="9:29" ph=" Currency class ..." />
+            <marker date="1478499023000" expanded="true" signature="63:257" ph=" Currency class ..." />
+            <marker date="1478499023000" expanded="true" signature="274:5487" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="349:391" ph=" Create a new Currency object ..." />
+            <marker date="1478499023000" expanded="true" signature="454:567" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="576:661" ph=" Get the three letter code for the currency ..." />
+            <marker date="1478499023000" expanded="true" signature="693:733" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="742:823" ph=" Get the numeric code for this currency ..." />
+            <marker date="1478499023000" expanded="true" signature="858:901" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="910:1000" ph=" Get the number of decimal places for this currency ..." />
+            <marker date="1478499023000" expanded="true" signature="1036:1080" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1089:1267" ph=" Find a specific currency ..." />
+            <marker date="1478499023000" expanded="true" signature="1308:1545" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1428:1538" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1554:1636" ph=" Get an array of all supported currencies ..." />
+            <marker date="1478499023000" expanded="true" signature="1671:5485" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1699:5477" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/CreditCard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4755">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="false" signature="9:32" ph=" Credit Card class ..." />
+            <marker date="1478499023000" expanded="false" signature="67:202" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="207:1828" ph=" Credit Card class ..." />
+            <marker date="1478499023000" expanded="true" signature="1847:36337" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2308:2795" ph=" All known/supported card brands, and a regular expression to match them. ..." />
+            <marker date="1478499023000" expanded="true" signature="2958:3694" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="3705:3832" ph=" Internal storage of all of the card parameters. ..." />
+            <marker date="1478499023000" expanded="true" signature="3870:4032" ph=" Create a new CreditCard object using the specified parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="4086:4138" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4147:4430" ph=" All known/supported card brands, and a regular expression to match them. ..." />
+            <marker date="1478499023000" expanded="true" signature="4473:4524" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4533:5021" ph=" Set a custom supported card brand with a regular expression to match it. ..." />
+            <marker date="1478499023000" expanded="true" signature="5081:5311" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5194:5229" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="5320:5571" ph=" Initialize the object with parameters. ..." />
+            <marker date="1478499023000" expanded="true" signature="5624:5754" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5763:5860" ph=" Get all parameters. ..." />
+            <marker date="1478499023000" expanded="true" signature="5898:5951" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5960:6046" ph=" Get one parameter. ..." />
+            <marker date="1478499023000" expanded="true" signature="6090:6147" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6156:6333" ph=" Set one parameter. ..." />
+            <marker date="1478499023000" expanded="true" signature="6385:6466" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6475:6743" ph=" Set the credit card year. ..." />
+            <marker date="1478499023000" expanded="true" signature="6799:7084" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6894:6930" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="6938:7026" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7093:7587" ph=" Validate this credit card. If the card is invalid, InvalidCreditCardException is thrown. ..." />
+            <marker date="1478499023000" expanded="true" signature="7620:8346" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="7699:7856" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7745:7846" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="7915:7994" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8053:8138" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8237:8339" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8355:8413" ph=" Get Card Title. ..." />
+            <marker date="1478499023000" expanded="true" signature="8446:8499" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="8508:8643" ph=" Set Card Title. ..." />
+            <marker date="1478499023000" expanded="true" signature="8682:8798" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="8807:8870" ph=" Get Card First Name. ..." />
+            <marker date="1478499023000" expanded="true" signature="8907:8964" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="8973:9136" ph=" Set Card First Name (Billing and Shipping). ..." />
+            <marker date="1478499023000" expanded="true" signature="9179:9303" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9312:9374" ph=" Get Card Last Name. ..." />
+            <marker date="1478499023000" expanded="true" signature="9410:9466" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9475:9637" ph=" Set Card Last Name (Billing and Shipping). ..." />
+            <marker date="1478499023000" expanded="true" signature="9679:9801" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9810:9867" ph=" Get Card Name. ..." />
+            <marker date="1478499023000" expanded="true" signature="9899:9951" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="9960:10117" ph=" Set Card Name (Billing and Shipping). ..." />
+            <marker date="1478499023000" expanded="true" signature="10155:10269" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10278:10337" ph=" Get Card Number. ..." />
+            <marker date="1478499023000" expanded="true" signature="10371:10429" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10438:10721" ph=" Set Card Number ..." />
+            <marker date="1478499023000" expanded="true" signature="10761:10893" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="10902:10986" ph=" Get the last 4 digits of the card number. ..." />
+            <marker date="1478499023000" expanded="true" signature="11028:11098" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11107:11284" ph=" Returns a masked credit card number with only the last 4 chars visible ..." />
+            <marker date="1478499023000" expanded="true" signature="11335:11478" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11487:11642" ph=" Credit Card Brand ..." />
+            <marker date="1478499023000" expanded="true" signature="11675:11864" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="11747:11857" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="11803:11847" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="11873:11939" ph=" Get the card expiry month. ..." />
+            <marker date="1478499023000" expanded="true" signature="11978:12041" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12050:12181" ph=" Sets the card expiry month. ..." />
+            <marker date="1478499023000" expanded="true" signature="12226:12303" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12312:12377" ph=" Get the card expiry year. ..." />
+            <marker date="1478499023000" expanded="true" signature="12415:12477" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12486:12616" ph=" Sets the card expiry year. ..." />
+            <marker date="1478499023000" expanded="true" signature="12660:12734" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="12743:12887" ph=" Get the card expiry date, using the specified date format string. ..." />
+            <marker date="1478499023000" expanded="true" signature="12932:13047" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13056:13124" ph=" Get the card start month. ..." />
+            <marker date="1478499023000" expanded="true" signature="13162:13224" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13233:13363" ph=" Sets the card start month. ..." />
+            <marker date="1478499023000" expanded="true" signature="13407:13483" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13492:13556" ph=" Get the card start year. ..." />
+            <marker date="1478499023000" expanded="true" signature="13593:13654" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13663:13792" ph=" Sets the card start year. ..." />
+            <marker date="1478499023000" expanded="true" signature="13835:13908" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="13917:14059" ph=" Get the card start date, using the specified date format string ..." />
+            <marker date="1478499023000" expanded="true" signature="14103:14216" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14225:14285" ph=" Get the card CVV. ..." />
+            <marker date="1478499023000" expanded="true" signature="14316:14371" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14380:14502" ph=" Sets the card CVV. ..." />
+            <marker date="1478499023000" expanded="true" signature="14539:14602" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14611:14716" ph=" Get raw data for all tracks on the credit card magnetic strip. ..." />
+            <marker date="1478499023000" expanded="true" signature="14750:14808" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="14817:14919" ph=" Get raw data for track 1 on the credit card magnetic strip. ..." />
+            <marker date="1478499023000" expanded="true" signature="14953:15246" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15027:15215" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="15153:15205" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="15255:15357" ph=" Get raw data for track 2 on the credit card magnetic strip. ..." />
+            <marker date="1478499023000" expanded="true" signature="15391:15672" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15465:15641" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="15579:15631" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="15681:15877" ph=" Sets raw data from all tracks on the credit card magnetic strip. Used by gateways that support card-present ..." />
+            <marker date="1478499023000" expanded="true" signature="15917:15983" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="15992:16061" ph=" Get the card issue number. ..." />
+            <marker date="1478499023000" expanded="true" signature="16100:16163" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16172:16303" ph=" Sets the card issue number. ..." />
+            <marker date="1478499023000" expanded="true" signature="16348:16419" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16428:16498" ph=" Get the card billing title. ..." />
+            <marker date="1478499023000" expanded="true" signature="16538:16602" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16611:16743" ph=" Sets the card billing title. ..." />
+            <marker date="1478499023000" expanded="true" signature="16789:16861" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="16870:16939" ph=" Get the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="16978:17077" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="17086:17217" ph=" Sets the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="17262:17458" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="17467:17554" ph=" Get the first part of the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="17598:17666" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="17675:17824" ph=" Sets the first part of the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="17874:17950" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="17959:18045" ph=" Get the last part of the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="18088:18155" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="18164:18312" ph=" Sets the last part of the card billing name. ..." />
+            <marker date="1478499023000" expanded="true" signature="18361:18436" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="18445:18517" ph=" Get the billing company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="18559:18625" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="18634:18768" ph=" Sets the billing company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="18816:18890" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="18899:18974" ph=" Get the billing address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="19017:19084" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="19093:19230" ph=" Sets the billing address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="19279:19354" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="19363:19438" ph=" Get the billing address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="19481:19548" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="19557:19694" ph=" Sets the billing address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="19743:19818" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="19827:19891" ph=" Get the billing city. ..." />
+            <marker date="1478499023000" expanded="true" signature="19930:19993" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="20002:20124" ph=" Sets billing city. ..." />
+            <marker date="1478499023000" expanded="true" signature="20169:20240" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="20249:20317" ph=" Get the billing postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="20360:20427" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="20436:20566" ph=" Sets the billing postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="20615:20690" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="20699:20764" ph=" Get the billing state. ..." />
+            <marker date="1478499023000" expanded="true" signature="20804:20868" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="20877:21004" ph=" Sets the billing state. ..." />
+            <marker date="1478499023000" expanded="true" signature="21050:21122" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="21131:21203" ph=" Get the billing country name. ..." />
+            <marker date="1478499023000" expanded="true" signature="21245:21311" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="21320:21454" ph=" Sets the billing country name. ..." />
+            <marker date="1478499023000" expanded="true" signature="21502:21576" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="21585:21657" ph=" Get the billing phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="21697:21761" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="21770:21904" ph=" Sets the billing phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="21950:22022" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="22031:22113" ph=" Get the billing phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="22162:22235" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="22244:22388" ph=" Sets the billing phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="22443:22524" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="22533:22603" ph=" Get the billing fax number. ..." />
+            <marker date="1478499023000" expanded="true" signature="22641:22703" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="22712:22844" ph=" Sets the billing fax number. ..." />
+            <marker date="1478499023000" expanded="true" signature="22888:22958" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="22967:23050" ph=" Get the title of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="23091:23156" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="23165:23310" ph=" Sets the title of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="23357:23430" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="23439:23509" ph=" Get the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="23549:23650" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="23659:23791" ph=" Sets the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="23837:24035" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="24044:24132" ph=" Get the first part of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="24177:24246" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="24255:24405" ph=" Sets the first part of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="24456:24533" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="24542:24629" ph=" Get the last part of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="24673:24741" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="24750:24899" ph=" Sets the last part of the card shipping name. ..." />
+            <marker date="1478499023000" expanded="true" signature="24949:25025" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="25034:25107" ph=" Get the shipping company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="25150:25217" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="25226:25361" ph=" Sets the shipping company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="25410:25485" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="25494:25570" ph=" Get the shipping address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="25614:25682" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="25691:25829" ph=" Sets the shipping address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="25879:25955" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="25964:26040" ph=" Get the shipping address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="26084:26152" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="26161:26299" ph=" Sets the shipping address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="26349:26425" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="26434:26499" ph=" Get the shipping city. ..." />
+            <marker date="1478499023000" expanded="true" signature="26539:26603" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="26612:26739" ph=" Sets the shipping city. ..." />
+            <marker date="1478499023000" expanded="true" signature="26785:26857" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="26866:26935" ph=" Get the shipping postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="26979:27047" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="27056:27187" ph=" Sets the shipping postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="27237:27313" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="27322:27388" ph=" Get the shipping state. ..." />
+            <marker date="1478499023000" expanded="true" signature="27429:27494" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="27503:27631" ph=" Sets the shipping state. ..." />
+            <marker date="1478499023000" expanded="true" signature="27678:27751" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="27760:27828" ph=" Get the shipping country. ..." />
+            <marker date="1478499023000" expanded="true" signature="27871:27938" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="27947:28077" ph=" Sets the shipping country. ..." />
+            <marker date="1478499023000" expanded="true" signature="28126:28201" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="28210:28283" ph=" Get the shipping phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="28324:28389" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="28398:28533" ph=" Sets the shipping phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="28580:28653" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="28662:28745" ph=" Get the shipping phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="28795:28869" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="28878:29023" ph=" Sets the shipping phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="29079:29161" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="29170:29241" ph=" Get the shipping fax number. ..." />
+            <marker date="1478499023000" expanded="true" signature="29280:29343" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="29352:29485" ph=" Sets the shipping fax number. ..." />
+            <marker date="1478499023000" expanded="true" signature="29530:29601" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="29610:29685" ph=" Get the billing address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="29721:29788" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="29797:29947" ph=" Sets the billing and shipping address, line 1. ..." />
+            <marker date="1478499023000" expanded="true" signature="29989:30137" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="30146:30221" ph=" Get the billing address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="30257:30324" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="30333:30483" ph=" Sets the billing and shipping address, line 2. ..." />
+            <marker date="1478499023000" expanded="true" signature="30525:30673" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="30682:30746" ph=" Get the billing city. ..." />
+            <marker date="1478499023000" expanded="true" signature="30778:30841" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="30850:30989" ph=" Sets the billing and shipping city. ..." />
+            <marker date="1478499023000" expanded="true" signature="31027:31167" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="31176:31244" ph=" Get the billing postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="31280:31347" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="31356:31499" ph=" Sets the billing and shipping postcode. ..." />
+            <marker date="1478499023000" expanded="true" signature="31541:31689" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="31698:31763" ph=" Get the billing state. ..." />
+            <marker date="1478499023000" expanded="true" signature="31796:31860" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="31869:32009" ph=" Sets the billing and shipping state. ..." />
+            <marker date="1478499023000" expanded="true" signature="32048:32190" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="32199:32266" ph=" Get the billing country. ..." />
+            <marker date="1478499023000" expanded="true" signature="32301:32367" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="32376:32518" ph=" Sets the billing and shipping country. ..." />
+            <marker date="1478499023000" expanded="true" signature="32559:32705" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="32714:32786" ph=" Get the billing phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="32819:32883" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="32892:33039" ph=" Sets the billing and shipping phone number. ..." />
+            <marker date="1478499023000" expanded="true" signature="33078:33220" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="33229:33311" ph=" Get the billing phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="33353:33426" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="33435:33592" ph=" Sets the billing and shipping phone number extension. ..." />
+            <marker date="1478499023000" expanded="true" signature="33640:33800" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="33809:33880" ph=" Get the billing fax number.. ..." />
+            <marker date="1478499023000" expanded="true" signature="33911:33973" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="33982:34127" ph=" Sets the billing and shipping fax number. ..." />
+            <marker date="1478499023000" expanded="true" signature="34164:34302" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="34311:34388" ph=" Get the card billing company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="34423:34489" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="34498:34645" ph=" Sets the billing and shipping company name. ..." />
+            <marker date="1478499023000" expanded="true" signature="34686:34832" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="34841:34919" ph=" Get the cardholder's email address. ..." />
+            <marker date="1478499023000" expanded="true" signature="34952:35009" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="35018:35158" ph=" Sets the cardholder's email address. ..." />
+            <marker date="1478499023000" expanded="true" signature="35197:35262" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="35271:35344" ph=" Get the cardholder's birthday. ..." />
+            <marker date="1478499023000" expanded="true" signature="35397:35516" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="35525:35660" ph=" Sets the cardholder's birthday. ..." />
+            <marker date="1478499023000" expanded="true" signature="35702:35915" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="35730:35807" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="35815:35851" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="35924:35995" ph=" Get the cardholder's gender. ..." />
+            <marker date="1478499023000" expanded="true" signature="36029:36087" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="36096:36229" ph=" Sets the cardholder's gender. ..." />
+            <marker date="1478499023000" expanded="true" signature="36269:36335" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/GatewayInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-124">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:40" ph=" Payment gateway interface ..." />
+            <marker date="1478499023000" expanded="true" signature="74:2007" ph=" Payment gateway interface ..." />
+            <marker date="1478499023000" expanded="true" signature="2036:3004" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2046:2166" ph=" Get gateway display name ..." />
+            <marker date="1478499023000" expanded="true" signature="2208:2382" ph=" Get gateway short name ..." />
+            <marker date="1478499023000" expanded="true" signature="2429:2720" ph=" Define gateway parameters, in the following format: ..." />
+            <marker date="1478499023000" expanded="true" signature="2775:2823" ph=" Initialize gateway with parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="2895:2963" ph=" Get all gateway parameters ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:27" ph=" Helper class ..." />
+            <marker date="1478499023000" expanded="true" signature="92:218" ph=" Helper class ..." />
+            <marker date="1478499023000" expanded="true" signature="233:5039" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="243:435" ph=" Convert a string to camelCase. Strings already in camelCase will not be harmed. ..." />
+            <marker date="1478499023000" expanded="true" signature="480:724" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="571:716" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="629:688" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="733:921" ph=" Convert strings with underscores to be all lowercase before camelCase is preformed. ..." />
+            <marker date="1478499023000" expanded="true" signature="978:1270" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1067:1241" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1114:1182" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1279:1479" ph=" Validate a card number according to the Luhn algorithm. ..." />
+            <marker date="1478499023000" expanded="true" signature="1530:1734" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1621:1672" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="1743:2094" ph=" Initialize an object with a given array of parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="2156:2468" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2199:2461" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2253:2451" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2374:2437" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2477:2671" ph=" Resolve a gateway class to a short name. ..." />
+            <marker date="1478499023000" expanded="true" signature="2732:3026" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2784:2841" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2896:2986" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="3035:3703" ph=" Resolve a short gateway name to a full namespaced gateway class. ..." />
+            <marker date="1478499023000" expanded="true" signature="3764:4131" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3816:3856" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="4031:4072" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="4140:4480" ph=" Convert an amount into a float. ..." />
+            <marker date="1478499023000" expanded="true" signature="4526:5037" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4606:4707" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="4742:4999" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="4883:4989" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Issuer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:21" ph=" Issuer ..." />
+            <marker date="1478499023000" expanded="true" signature="55:164" ph=" Issuer ..." />
+            <marker date="1478499023000" expanded="true" signature="179:1568" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="189:258" ph=" The identifier of the issuer. ..." />
+            <marker date="1478499023000" expanded="true" signature="292:360" ph=" The full name of the issuer. ..." />
+            <marker date="1478499023000" expanded="true" signature="396:523" ph=" The ID of a payment method that the issuer belongs to. ..." />
+            <marker date="1478499023000" expanded="true" signature="564:864" ph=" Create a new Issuer ..." />
+            <marker date="1478499023000" expanded="true" signature="933:1046" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1055:1127" ph=" The identifier of this issuer ..." />
+            <marker date="1478499023000" expanded="true" signature="1157:1195" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1204:1270" ph=" The name of this issuer ..." />
+            <marker date="1478499023000" expanded="true" signature="1302:1342" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1351:1476" ph=" The ID of a payment method this issuer belongs to ..." />
+            <marker date="1478499023000" expanded="true" signature="1517:1566" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/BadMethodCallException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:78" ph=" Bad Method Call Exception ..." />
+            <marker date="1478499023000" expanded="true" signature="169:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/InvalidCreditCardException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:153" ph=" Invalid Credit Card Exception ..." />
+            <marker date="1478499023000" expanded="true" signature="235:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/InvalidRequestException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:145" ph=" Invalid Request Exception ..." />
+            <marker date="1478499023000" expanded="true" signature="224:228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/InvalidResponseException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:196" ph=" Invalid Response exception. ..." />
+            <marker date="1478499023000" expanded="true" signature="276:462" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="391:460" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/OmnipayException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:87" ph=" Omnipay Exception marker interface ..." />
+            <marker date="1478499023000" expanded="true" signature="116:120" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Exception/RuntimeException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="47:70" ph=" Runtime Exception ..." />
+            <marker date="1478499023000" expanded="true" signature="149:153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/AbstractGateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:41" ph=" Base payment gateway class ..." />
+            <marker date="1478499023000" expanded="true" signature="76:254" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="259:1137" ph=" Base payment gateway class ..." />
+            <marker date="1478499023000" expanded="true" signature="1198:8396" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1208:1273" ph=" @var \Symfony\Component\HttpFoundation\ParameterBag ..." />
+            <marker date="1478499023000" expanded="true" signature="1311:1358" ph=" @var \Guzzle\Http\ClientInterface ..." />
+            <marker date="1478499023000" expanded="true" signature="1396:1456" ph=" @var \Symfony\Component\HttpFoundation\Request ..." />
+            <marker date="1478499023000" expanded="true" signature="1495:1700" ph=" Create a new gateway instance ..." />
+            <marker date="1478499023000" expanded="true" signature="1803:1995" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2004:2080" ph=" Get the short name of the Gateway ..." />
+            <marker date="1478499023000" expanded="true" signature="2117:2191" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2200:2322" ph=" Initialize this gateway with default parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="2384:2813" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2539:2734" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2575:2649" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2657:2724" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="2822:2849" ph=" @return array ..." />
+            <marker date="1478499023000" expanded="true" signature="2894:2930" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2939:2966" ph=" @return array ..." />
+            <marker date="1478499023000" expanded="true" signature="3004:3057" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3066:3120" ph=" @param  string $key ..." />
+            <marker date="1478499023000" expanded="true" signature="3161:3218" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3227:3310" ph=" @param  string $key ..." />
+            <marker date="1478499023000" expanded="true" signature="3359:3440" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3449:3478" ph=" @return boolean ..." />
+            <marker date="1478499023000" expanded="true" signature="3514:3574" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3583:3640" ph=" @param  boolean $value ..." />
+            <marker date="1478499023000" expanded="true" signature="3682:3750" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3759:3787" ph=" @return string ..." />
+            <marker date="1478499023000" expanded="true" signature="3823:3895" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="3904:3960" ph=" @param  string $value ..." />
+            <marker date="1478499023000" expanded="true" signature="4002:4070" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4079:4194" ph=" Supports Authorize ..." />
+            <marker date="1478499023000" expanded="true" signature="4236:4298" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4307:4439" ph=" Supports Complete Authorize ..." />
+            <marker date="1478499023000" expanded="true" signature="4489:4559" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4568:4679" ph=" Supports Capture ..." />
+            <marker date="1478499023000" expanded="true" signature="4719:4779" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="4788:4901" ph=" Supports Purchase ..." />
+            <marker date="1478499023000" expanded="true" signature="4942:5003" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5012:5142" ph=" Supports Complete Purchase ..." />
+            <marker date="1478499023000" expanded="true" signature="5191:5260" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5269:5378" ph=" Supports Refund ..." />
+            <marker date="1478499023000" expanded="true" signature="5417:5476" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5485:5590" ph=" Supports Void ..." />
+            <marker date="1478499023000" expanded="true" signature="5627:5684" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5693:5826" ph=" Supports AcceptNotification ..." />
+            <marker date="1478499023000" expanded="true" signature="5877:5948" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="5957:6070" ph=" Supports CreateCard ..." />
+            <marker date="1478499023000" expanded="true" signature="6113:6176" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6185:6298" ph=" Supports DeleteCard ..." />
+            <marker date="1478499023000" expanded="true" signature="6341:6404" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6413:6526" ph=" Supports UpdateCard ..." />
+            <marker date="1478499023000" expanded="true" signature="6569:6632" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="6641:7648" ph=" Create and initialize a request object ..." />
+            <marker date="1478499023000" expanded="true" signature="7714:7878" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="7887:7969" ph=" Get the global default HTTP client. ..." />
+            <marker date="1478499023000" expanded="true" signature="8017:8191" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="8089:8173" ph="..." />
+            <marker date="1478499023000" expanded="true" signature="8200:8284" ph=" Get the global default HTTP request. ..." />
+            <marker date="1478499023000" expanded="true" signature="8333:8394" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/Item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1300">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <marker date="1478499023000" expanded="true" signature="9:24" ph=" Cart Item ..." />
+            <marker date="1478499023000" expanded="true" signature="110:217" ph=" Cart Item ..." />
+            <marker date="1478499023000" expanded="true" signature="255:2446" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="265:330" ph=" @var \Symfony\Component\HttpFoundation\ParameterBag ..." />
+            <marker date="1478499023000" expanded="true" signature="368:521" ph=" Create a new item with the specified parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="575:627" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="636:815" ph=" Initialize this item with the specified parameters ..." />
+            <marker date="1478499023000" expanded="true" signature="868:998" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1035:1088" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1131:1188" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1239:1320" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1329:1356" ph=" {@inheritDoc} ..." />
+            <marker date="1478499023000" expanded="true" signature="1388:1444" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1453:1484" ph=" Set the item name ..." />
+            <marker date="1478499023000" expanded="true" signature="1522:1586" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1595:1622" ph=" {@inheritDoc} ..." />
+            <marker date="1478499023000" expanded="true" signature="1661:1724" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1733:1771" ph=" Set the item description ..." />
+            <marker date="1478499023000" expanded="true" signature="1816:1887" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="1896:1923" ph=" {@inheritDoc} ..." />
+            <marker date="1478499023000" expanded="true" signature="1959:2019" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2028:2063" ph=" Set the item quantity ..." />
+            <marker date="1478499023000" expanded="true" signature="2105:2173" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2182:2209" ph=" {@inheritDoc} ..." />
+            <marker date="1478499023000" expanded="true" signature="2242:2299" ph="{...}" />
+            <marker date="1478499023000" expanded="true" signature="2308:2340" ph=" Set the item price ..." />
+            <marker date="1478499023000" expanded="true" signature="2379:2444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/WSProduct/Common/ItemBag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-930">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#30#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
